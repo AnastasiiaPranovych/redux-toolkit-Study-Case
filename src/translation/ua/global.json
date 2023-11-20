@@ -1,0 +1,12 @@
+{
+    "product-name": "ТортоваАплікація",
+    "functionality-buttons": {
+        "cut": "Різати",
+        "eat": "Їсти"
+    },
+    "pages": {
+        "home-page": {
+            "title": "Домашня сторінка"
+        }
+    }
+}

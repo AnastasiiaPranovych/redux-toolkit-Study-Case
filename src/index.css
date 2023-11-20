@@ -1,0 +1,58 @@
+:root {
+    --navbar-height: 6.2rem;
+    --color-white: #fff;
+    --font-family-default: 'Open Sans';
+    --logo-container-width: 3.4rem;
+
+    --font-size-tiny: 1rem;
+    --font-size-extra-small: 1.4rem;
+    --font-size-small: 1.6rem;
+    --font-size-medium: 1.8rem;
+    --font-size-large: 2rem;
+    --font-size-extra-large: 3.6rem;
+    --font-size-huge: 4.8rem;
+
+    --font-weight-ultra-light: 100;
+    --font-weight-simple-light: 200;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-semi-bold: 600;
+    --font-weight-bold: 700;
+
+    --border-radius: 2px;
+    --border-radius-0: 3px;
+    --border-radius-1: 5px;
+    --border-radius-2: 10px;
+
+    --color-brand-lavander: #757DC3;
+    --color-brand-shade-lavander: #505bbc;
+    --color-brand-light-lavander: #8E96EB;
+    --color-brand-extra-light-lavander: #ABA9F9;
+    --color-brand-light-violet: #D7BFF8;
+    --color-brand-teal: #76CDDE;
+    --color-brand-light-teal: #92ECDD;
+
+    --color-interface-alert: #fff2de;
+    --color-interface-error: #c10c0c;
+    --color-interface-success: #2da05b;
+
+    --color-neutrals-total-white: #ffffff;
+    --color-neutrals: #f1eff1;
+    --color-neutrals-grey-90: #e6e6e6;
+    --color-neutrals-grey-80: #cccccc;
+    --color-neutrals-grey-70: #b3b3b3;
+    --color-neutrals-grey-60: #999999;
+    --color-neutrals-grey-50: #808080;
+    --color-neutrals-grey-40: #666666;
+    --color-neutrals-grey-30: #4d4d4d;
+    --color-neutrals-grey-20: #333333;
+    --color-neutrals-grey-10: #1a1a1a;
+    --color-neutrals-total-black: #000000;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    user-select: text;
+    overflow: hidden;
+}

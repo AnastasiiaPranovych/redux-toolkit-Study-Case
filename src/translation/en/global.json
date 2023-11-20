@@ -1,0 +1,24 @@
+{
+    "product-name": "CakeApplication",
+    "functionality-buttons": {
+        "cut": "Cut",
+        "eat": "Eat"
+    },
+    "pages": {
+        "home-page": {
+            "title": "Home Page"
+        },
+        "not-found-page": {
+            "title": "Not found"
+        },
+        "login-page": {
+            "title": "Login"
+        },
+        "logout-page": {
+            "title": "Logout"
+        },
+        "cake-list-page": {
+            "title": "Cake list"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "product-name": "CiastkowaAplikacja",
+    "functionality-buttons": {
+        "cut": "Croić",
+        "eat": "Jeść"
+    },
+    "pages": {
+        "home-page": {
+            "title": "Strona Główna"
+        }
+    }
+}
