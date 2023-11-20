@@ -9,7 +9,7 @@ import { I18nextProvider } from 'react-i18next';
 import { store } from './store/store';
 import { Provider } from 'react-redux';
 import './index.css';
-import App from './App';
+import App from './app/App';
 
 i18next.init({
     interpolation: { escapeValue: false },
