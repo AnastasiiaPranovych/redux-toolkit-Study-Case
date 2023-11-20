@@ -2,9 +2,9 @@ import { Box, LinearProgress, Modal, Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { useLocation } from "react-router-dom";
-import ContentRoutes from "./ContentRoutes";
-import RoutesEnum from "./enum/Routes.enum";
-import HomePage from "./pages/HomePage/HomePage";
+import ContentRoutes from "./../ContentRoutes";
+import RoutesEnum from "../enum/Routes.enum";
+import HomePage from "../pages/HomePage/HomePage";
 
 function App() {
     const [t] = useTranslation('global');
